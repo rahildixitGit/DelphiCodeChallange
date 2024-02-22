@@ -1,0 +1,11 @@
+create table EMP_DATA
+(
+emp_code varchar(5),
+emp_fname varchar(15),
+emp_lname varchar(15),
+emp_dob date,
+emp_doj date,
+emp_phone varchar(12),
+emp_mobile varchar(16),
+emp_salary float
+)

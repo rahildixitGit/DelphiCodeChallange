@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.728,=C:\Users\sharadb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.743,D:\DX10\TEST_APPS\ConnectAnyDb\LoadDataFromCSV\Source\LoadCSVInToDB.dproj=C:\Users\sharadb\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.348,=C:\Users\sharadb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.402,=C:\Users\sharadb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.044,=D:\DX10\TEST_APPS\ConnectAnyDb\LoadDataFromCSV\Source\units\uWriteToLogFile.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.309,D:\DX10\TEST_APPS\ConnectAnyDb\LoadDataFromCSV\Source\units\uMain.pas=C:\Users\sharadb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.614,D:\DX10\TEST_APPS\ConnectAnyDb\LoadDataFromCSV\Source\LoadDataFromCSV.dproj=D:\DX10\TEST_APPS\ConnectAnyDb\LoadDataFromCSV\Source\LoadCSVInToDB.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.309,D:\DX10\TEST_APPS\ConnectAnyDb\LoadDataFromCSV\Source\units\uMain.dfm=C:\Users\sharadb\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.631,=C:\Users\sharadb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.860,=C:\Users\sharadb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.547,=C:\Users\sharadb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.675,=C:\Users\sharadb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.582,=C:\Users\sharadb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.336,=C:\Users\sharadb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.006,=C:\Users\sharadb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.934,=C:\Users\sharadb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.135,=C:\Users\sharadb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
